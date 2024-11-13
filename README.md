@@ -15,9 +15,7 @@ Ctrl click [http://localhost:5173](http://localhost:5173) to open in your browse
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-Open another terminal node to run the json-server local api to populate the fake cities.json database:
-
-### `fakerjs.dev`
+### `faker-js`
 
 Using faker-js for the blog posts [fakerjs.dev](https://fakerjs.dev/)
 
